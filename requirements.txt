@@ -1,0 +1,9 @@
+google-adk>=1.11.0
+google-genai>=1.31.0
+litellm>=1.75.8
+alpaca-py>=0.34.0
+yfinance>=0.2.65
+firecrawl-py==2.16.3
+python-dotenv>=1.1.1
+apscheduler>=3.10.4
+pytz>=2024.1
